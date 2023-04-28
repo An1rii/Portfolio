@@ -1,0 +1,40 @@
+@media only screen and (max-width: 768px) {
+
+
+  .hero { height: 100vh; }
+
+  .logo { font-size: 1.5rem; }
+
+  nav ul { display: none; flex-direction: column; text-align: center; }
+
+  nav li { margin: 0.5rem 0; }
+
+  .btn { margin-top: 1rem; }
+
+  .content { margin-top: 6rem; }
+
+  .about { padding: 3rem 1rem; }
+
+  .about .main { flex-direction: column-reverse; }
+
+  .about-text { text-align: center; margin-bottom: 2rem; }
+
+  .box { flex-direction: column; align-items: center; }
+
+  .card { width: 100%; margin-bottom: 1rem; }
+
+  .card i { font-size: 2rem; }
+
+  .service .title h2 {display: table-cell;}
+
+  .card h5 { font-size: 1.5rem; }
+
+  .pra { margin-top: 1rem; text-align: center; }
+
+  .button-two { margin-top: 2rem; }
+
+  footer p, .social { text-align: center; }
+
+  footer p.end { margin-top: 1rem; }
+
+}
