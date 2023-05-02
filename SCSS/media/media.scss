@@ -1,3 +1,20 @@
+@media  screen and(max-width: 390px) {
+  .content h3 {
+    padding-right: 20px;
+  }
+  .newslatter form{
+    padding-right: 18px;
+  }
+
+}
+@media screen and (max-width: 600px) {
+  .about-text {
+    padding: 78px;
+  }
+  footer p:nth-child(2){
+    padding: 78px;
+  }
+}
 @media only screen and (max-width: 768px) {
 
 
